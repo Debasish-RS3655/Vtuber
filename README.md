@@ -1,5 +1,5 @@
 # Vtuber
-An Anime Avatar designed using Liv2D controlled through facial expressions that can speak.
+A browser-environment JavaScript-based Anime Avatar designed using Liv2D controlled through facial expressions that can speak.
 
 # Overview
 An Avatar assistant designed using Liv2D controlled through facial expressions. Tensorflow.js tracks
