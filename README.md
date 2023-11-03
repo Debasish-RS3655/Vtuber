@@ -1,4 +1,5 @@
 # Vtuber
+![mou working](https://github.com/Debasish-RS3655/Vtuber/assets/87827160/28eca3b6-7c99-466a-87b5-27d6f6edd5d1)
 A browser-environment JavaScript-based Anime Avatar designed using Liv2D controlled through facial expressions that can speak.
 
 # Overview
